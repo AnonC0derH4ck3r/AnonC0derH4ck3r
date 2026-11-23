@@ -1,31 +1,117 @@
-# Hello 👋, I'm Huzaifa Dayanji
-### Cybersecurity Consultant
+<div align="center">
 
-I'm an ex-web application developer.
-Penetration Tester.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · anonc0derh4ck3r</sub></p>
+<h1>Anonymous H4ck3r</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Hi , I'm a passionate frontend developer / Ethical Hacker from Globe.
+ I’m currently working on Ethical Hacking projects.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## Contact Me
-<p><a href="https://medium.com/@huzefa0x01" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://www.instagram.com/huzefakhalilahmed" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://github.com/anonc0derh4ck3r">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/176470881?u=a78042f8d1304c0deeaa19497d6a744e09a4d9f1&amp;v=4" width="180" alt="Anonymous H4ck3r GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## Skills
+<h2>What teams can evaluate quickly</h2>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="githu" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c++" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="linu" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · Python · PHP</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>289 contributions · 58 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Hi , I'm a passionate frontend developer / Ethical Hacker from Globe.
+ I’m currently working on Ethical Hacking projects.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>289</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Anonymous H4ck3r GitHub proof metrics" />
+</picture>
 </p>
 
-## GitHub Stats
+<h2>Selected work</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnonC0derH4ck3r&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&repos=anonc0derh4ck3r%2FAnonC0derH4ck3r%2Canonc0derh4ck3r%2FGenAi-Notes%2Canonc0derh4ck3r%2Ftest-site%2Canonc0derh4ck3r%2FAI-Gateways-and-Firewall&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&repos=anonc0derh4ck3r%2FAnonC0derH4ck3r%2Canonc0derh4ck3r%2FGenAi-Notes%2Canonc0derh4ck3r%2Ftest-site%2Canonc0derh4ck3r%2FAI-Gateways-and-Firewall&v=recruiter-projects-1&mode=dark" width="100%" alt="Anonymous H4ck3r selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AnonC0derH4ck3r/AnonC0derH4ck3r">AnonC0derH4ck3r</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/AnonC0derH4ck3r/AnonC0derH4ck3r">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonC0derH4ck3r&layout=compact&theme=default" alt="Most used languages" />
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AnonC0derH4ck3r/GenAi-Notes">GenAi-Notes</a></h3><p>Self-written notes for learning about GenAi</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AnonC0derH4ck3r/test-site">test-site</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AnonC0derH4ck3r/AI-Gateways-and-Firewall">AI-Gateways-and-Firewall</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonC0derH4ck3r&theme=default" alt="GitHub Streak" />
+<h2>Technical toolkit</h2>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Anonymous H4ck3r technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>34% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>34% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=anonc0derh4ck3r&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F176470881%3Fu%3Da78042f8d1304c0deeaa19497d6a744e09a4d9f1%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Anonymous H4ck3r contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/anonc0derh4ck3r">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Anonymous H4ck3r · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
