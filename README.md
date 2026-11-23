@@ -13,7 +13,7 @@
 <p><a href="https://github.com/anonc0derh4ck3r">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/176470881?u=a78042f8d1304c0deeaa19497d6a744e09a4d9f1&amp;v=4" width="180" alt="Anonymous H4ck3r GitHub avatar" />
+<img src="https://avatars.githubusercontent.com/u/176470881?s=400&u=98822c0c4b0ceff40a89d24b55c02c90a61c47e2&v=4" width="180" alt="Anonymous H4ck3r GitHub avatar" />
 </td>
 </tr>
 </table>
